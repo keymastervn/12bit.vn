@@ -5,9 +5,11 @@
   },
   "dependencies": {
     "sw-precache": "^5.2.1",
+    "tailwindcss": "^1.1.3",
     "workbox": "^0.0.0"
   },
   "devDependencies": {
-    "atomic-algolia": "^0.3.17"
+    "atomic-algolia": "^0.3.17",
+    "postcss-cli": "^6.1.3"
   }
 }
